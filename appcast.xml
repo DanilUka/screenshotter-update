@@ -1,0 +1,18 @@
+<rss version="2.0">
+  <channel>
+    <title>My App Updates</title>
+
+    <item>
+      <title>Version 1.1</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+
+      <enclosure
+        url="https://yourserver.com/MyApp.zip"
+        sparkle:edSignature="SIGNATURE_HERE"
+        length="12345678"
+        type="application/octet-stream" />
+    </item>
+
+  </channel>
+</rss>
