@@ -8,9 +8,9 @@
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
 
       <enclosure
-        url="https://yourserver.com/MyApp.zip"
-        sparkle:edSignature="SIGNATURE_HERE"
-        length="12345678"
+        url="https://daniluka.github.io/screenshotter-update/releases/screenshotter.dmg"
+        sparkle:edSignature="rD5wExWr/xcrbvbKbJTtAnct+qlgr72VIMv1ItXo3v7IRl4L5R7QWeHXanInUTjrCSh/LlIi/5agDVyUy6pZAg=="
+        length="1553408"
         type="application/octet-stream" />
     </item>
 
