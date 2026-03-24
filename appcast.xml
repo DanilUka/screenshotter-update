@@ -4,13 +4,13 @@
 
     <item>
       <title>Version 1.1</title>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.2.11</sparkle:shortVersionString>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.2.12</sparkle:shortVersionString>
 
       <enclosure
         url="https://daniluka.github.io/screenshotter-update/releases/screenshotter.dmg"
-        sparkle:edSignature="QxeBNk+TvQQGcu5gJPoa+PKBQRndyV4Lub6xjOk2gjBFWMVwKRGL6cc+2xR/hk7+Lg1d9wrn8sVKT8ohLX7YAA=="
-        length="1633280"
+        sparkle:edSignature="hW2zm4N5M0QgWPsxzvWJmTCFgnKJUt834WLUWwNBPB1HgVSnGb1k+jvvfdQAI2clV0YLopopI6fWvsilzGfrCA=="
+        length="1632256"
         type="application/octet-stream" />
     </item>
 
