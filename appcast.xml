@@ -4,8 +4,8 @@
 
     <item>
       <title>Version 1.1</title>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.2.12</sparkle:shortVersionString>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.2.14</sparkle:shortVersionString>
 
       <enclosure
         url="https://daniluka.github.io/screenshotter-update/releases/screenshotter.dmg"
